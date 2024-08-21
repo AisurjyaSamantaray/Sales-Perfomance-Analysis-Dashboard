@@ -1,11 +1,11 @@
-This project focuses on analyzing sales data to extract meaningful insights regarding profitability, customer behavior, and the impact of discounts across different regions.
+This project analyzes sales data to extract meaningful insights regarding profitability, customer behavior, and the impact of discounts across different regions.
 
 Data Cleaning and Preprocessing
 Handling Missing Values: Identified and addressed missing data.
-Outlier Detection and Removal: Used Interquartile Range (IQR) to detect and remove outliers.
+Outlier Detection and Removal: Interquartile Range (IQR) was used to detect and remove outliers.
 Normalization and Standardization: Ensured data was appropriately scaled for analysis.
 Descriptive Statistics
-Summary Statistics: Calculated metrics like mean, median, standard deviation, and kurtosis for numerical variables.
+Summary Statistics: Calculated mean, median, standard deviation, and kurtosis for numerical variables.
 Data Distribution Analysis: Visualized distributions with histograms, boxplots, and density plots. Checked for skewness and kurtosis.
 Correlation Analysis
 Pearson Correlation: Initially considered for numerical variables but found unsuitable due to non-normal distribution.
